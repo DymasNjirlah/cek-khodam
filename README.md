@@ -105,6 +105,12 @@
                 "Kapal karam",
                 "katak bijer",
                 "skibidi sigma",
+                "kuntilanak ngesot",
+                "ndoro kelabang",
+                "jin tukang ketoprak",
+                "dukun ireng",
+                "harimau pargoy",
+                "kudanil geprek",
             ];
 
             var randomIndex = Math.floor(Math.random() * khodams.length);
