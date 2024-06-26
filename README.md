@@ -93,7 +93,7 @@
                 "Ular kadut",
                 "Fahmi batagor",
                 "Bagas drible",
-                "Wawan es cimol",
+                "Ikan kembung ajaib",
                 "Macan aseli ngawi",
                 "Nyi fuad bagus",
                 "Mas roni ngawi",
