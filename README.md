@@ -111,6 +111,9 @@
                 "dukun ireng",
                 "harimau pargoy",
                 "kudanil geprek",
+                "Maung kondangan",
+                "nyi ratu selokan",
+                "monyet lepas",
             ];
 
             var randomIndex = Math.floor(Math.random() * khodams.length);
